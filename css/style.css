@@ -107,3 +107,45 @@
     font-weight: bold;
     width: 100%;
 }
+
+.team{
+    padding: 30px;
+}
+
+.miembros{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.miembros-titulo{
+    text-align: center;
+    font-size: 45px;
+    font-family: monospace;
+    padding-top: 5px;
+    padding-bottom: 0%;
+}
+.miembro{
+    padding: 2%;
+}
+.miembro-foto{
+    border-radius: 50%;
+    height: 50%;
+    width: 60%;
+}
+
+.miembro-nombre{
+    text-align: left;
+    color: #242424;
+}
+
+.miembro-email{
+    text-align: left;
+    color: #6F6F6F;
+}
+
+.miembro-descripcion{
+    text-align: justify;
+    color: #6F6F6F;
+}
