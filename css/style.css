@@ -79,11 +79,13 @@
 }
 .servicio{
     float: left;
-    width: 33%;
+    width: 30%;
+    background-color: beige;
     border-color: white;
     border-radius: 20px;
     text-align: center;
-    padding:10px,0px,10px,0px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .imageservice {
     position: relative;
