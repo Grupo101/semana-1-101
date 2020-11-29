@@ -76,17 +76,15 @@
     top: 50px;
 }
 .noticias{
-    /* background-color: rgb(75, 221, 17); */
     display: flex;
-    //flex-basis: 50%;
-    flex-direction: row; /*horizontal/
-    flex-wrap: no-wrap; /*una sola lineal*/
+    flex-basis: 100%;
+    flex-direction: row; 
+    flex-wrap: wrap; 
     justify-content: space-around;
     align-content: space-between;
     text-align: justify;
-    background-image: url("/images/noticias/fondo1.jpg") 
-}
-
+    background-image: url("../images/noticias/fondo1.jpg") 
+} 
 .noticia{
     flex-basis: 50%;
     display: inline-flex; 
@@ -101,21 +99,14 @@
     margin-left: 10px;
     margin-right:  10px;
     text-align: center; 
-    
 }
-
 .noticias__division{
-    /* width: 33.08%; */
-    /* height: 470px; */
     background-color: aquamarine;
     display: inline-block;
     padding: -15px;
     margin-top: 5px;
     text-align: justify; 
-    
-    
 }
-
 .noticia__imagen{
     width:50% !important;
     height:400px !important;
@@ -132,8 +123,6 @@
 }
 .noticias__titulo{
     color: rgb(14, 14, 233);
-}
-=======
     text-align: center;
     width: 60%;
 }
@@ -169,11 +158,9 @@
     font-weight: bold;
     width: 100%;
 }
-
 .team{
     padding: 30px;
 }
-
 .miembros{
     display: flex;
     justify-content: space-evenly;
