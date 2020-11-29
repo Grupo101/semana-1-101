@@ -1,4 +1,4 @@
-.c-body{
+body{
     font-family: Montserrat, sans-serif;
 }
 
@@ -150,7 +150,7 @@
     /* color: rgb(35, 35, 219); */
 }
 .noticias__titulo{
-    color: rgb(14, 14, 233);
+    /*color: rgb(14, 14, 233);*/
 }
 
 }
@@ -202,7 +202,7 @@
 .miembros-titulo{
     text-align: center;
     font-size: 45px;
-    font-family: monospace;
+   /* font-family: monospace;*/
     padding-top: 5px;
     padding-bottom: 0%;
 }
