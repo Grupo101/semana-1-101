@@ -1,5 +1,6 @@
 body{
     font-family: Montserrat, sans-serif;
+    width: 1400px;
 }
 
 
@@ -237,6 +238,14 @@ body{
 .footer-container{
     display: flex;
     justify-content: space-evenly;
+}
+
+.footer-container-miembros{
+    display:flex;
+}
+
+.footer-container-miembro{
+    padding-right: 10px;
 }
 
 #news{
