@@ -103,7 +103,7 @@
     justify-content: space-around;
     align-content: space-between;
     text-align: justify;
-    background-image: url("/images/noticias/fondo1.jpg") 
+    background-image: url("..\images\noticias\fondo1.jpg") 
 }
 
 .noticia{
