@@ -99,11 +99,11 @@
     display: flex;
     /* flex-basis: 50%; */
     /* flex-direction: row; horizontal/ */
-    flex-wrap: no-wrap; una sola lineal */
+    /*flex-wrap: no-wrap; una sola lineal */
     justify-content: space-around;
     align-content: space-between;
     text-align: justify;
-    background-image: url("/images/noticias/fondo1.jpg") 
+    background-image: url("../images/noticias/fondo1.jpg") 
 }
 
 .noticia{
