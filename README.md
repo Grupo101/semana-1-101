@@ -1,7 +1,7 @@
 # semana-1-101
 Se asignaron las siguientes labores:
 - diseño de mockup y footer : Nelly Alexandra Medina
-- crear estructura básica de la página: Juan Sebastian Orduz
+- gestion del proyecto, crear estructura básica de la página y creacion de equipo: Juan Sebastian Orduz
 - creación de encabezado y servicios: Jimmy Javier Piamonte
 - creación de Noticias: José Daniel Delgado
 
